@@ -6,4 +6,5 @@ Ideas, memos, notes and somethings more...(ポーネグリフ) 该 repo 用来�
 2. 图像检索相关的论文：https://github.com/willard-yuan/awesome-cbir-papers
 3. GAN 相关的论文：https://github.com/zhangqianhui/AdversarialNetsPapers
 4. STN：https://github.com/kevinzakka/spatial-transformer-network
+5. 多分类：http://ruder.io/multi-task/
 
