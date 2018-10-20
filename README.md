@@ -4,4 +4,5 @@ Ideas, memos, notes and somethings more...(ポーネグリフ) 该 repo 用来�
 # 深度学习
 1. 深度学习相关的论文：https://github.com/terryum/awesome-deep-learning-papers （Description：Awesome - Most Cited Deep Learning Papers）
 2. 图像检索相关的论文：https://github.com/willard-yuan/awesome-cbir-papers
+3. GAN 相关的论文：https://github.com/zhangqianhui/AdversarialNetsPapers
 
