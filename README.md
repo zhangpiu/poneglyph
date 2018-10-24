@@ -9,6 +9,7 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 5. 多分类：http://ruder.io/multi-task/
 6. Transfer Learning：https://github.com/artix41/awesome-transfer-learning
 7. PNN(Perturbative Neural Networks)：http://xujuefei.com/pnn.html
+8. PyTorch 实现的一些项目集锦：https://github.com/bharathgs/Awesome-pytorch-list
 
 # 软件工具
 1. Win10：https://github.com/TGSAN/CMWTAT_Digital_Edition
