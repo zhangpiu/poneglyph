@@ -3,8 +3,9 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 
 # 深度学习
 ## 图像检索
-1. 图像检索相关的论文：https://github.com/willard-yuan/awesome-cbir-papers
-2. Facebook DeepCluster：https://github.com/facebookresearch/deepcluster
+- 图像检索相关的论文：https://github.com/willard-yuan/awesome-cbir-papers
+- Facebook DeepCluster：https://github.com/facebookresearch/deepcluster
+- TPAMI 的一篇论文，用了很多工程优化，Controstive Loss 可以参考一下：https://github.com/filipradenovic/cnnimageretrieval-pytorch
 
 ## Misc
 - 深度学习相关的论文：https://github.com/terryum/awesome-deep-learning-papers （Description：Awesome - Most Cited Deep Learning Papers）
