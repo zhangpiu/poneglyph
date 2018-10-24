@@ -12,3 +12,4 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 
 # 软件工具
 1. Win10：https://github.com/TGSAN/CMWTAT_Digital_Edition
+2. 内网穿透：https://github.com/inconshreveable/ngrok
