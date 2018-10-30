@@ -10,6 +10,9 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - Facebook DeepCluster：https://github.com/facebookresearch/deepcluster
 - TPAMI 的一篇论文，用了很多工程优化，Controstive Loss 可以参考一下：https://github.com/filipradenovic/cnnimageretrieval-pytorch
 
+## 聚类
+- 基于 GPU 的 K-Means 聚类，新测，100万 × 1024 的规模仅需要 10 mins。（https://github.com/src-d/kmcuda）
+
 ## Misc
 - 深度学习相关的论文：https://github.com/terryum/awesome-deep-learning-papers （Description：Awesome - Most Cited Deep Learning Papers）
 - GAN 相关的论文：https://github.com/zhangqianhui/AdversarialNetsPapers
