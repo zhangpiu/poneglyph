@@ -47,3 +47,4 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 1. Win10：https://github.com/TGSAN/CMWTAT_Digital_Edition
 2. 内网穿透：https://github.com/inconshreveable/ngrok
 3. 一个制作启动盘的软件：https://github.com/pbatard/rufus
+4. 一个号称很简洁的图形界面库：https://github.com/idea4good/GuiLite
