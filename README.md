@@ -27,6 +27,7 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - PyTorch 实现的一些项目集锦：https://github.com/bharathgs/Awesome-pytorch-list
 
 # C++
+- Awesome-cpp：https://github.com/fffaraz/awesome-cpp
 - 别人整理的一些类库：https://github.com/zhangpiu/opensource/blob/master/libs/cpp.wiki
 - CROW，C++ 写的一个 Web 框架：https://github.com/ipkn/crow
 
