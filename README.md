@@ -1,6 +1,8 @@
 # poneglyph
 Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记录一些杂乱的东西，或是想法、或是备忘、或是笔记、或是一些其他的东西。
 
+开篇来一记：https://github.com/bayandin/awesome-awesomeness
+
 # 深度学习
 ## 数据集
 ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
