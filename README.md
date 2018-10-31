@@ -17,6 +17,7 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 
 ## 图像增强
 - neural enhance：https://github.com/alexjc/neural-enhance
+- SR：https://github.com/nagadomi/waifu2x
 
 ## 聚类
 - 基于 GPU 的 K-Means 聚类，亲测，100万 × 1024 的规模仅需要 10 mins：https://github.com/src-d/kmcuda
