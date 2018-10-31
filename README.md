@@ -26,6 +26,10 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - PNN(Perturbative Neural Networks)：http://xujuefei.com/pnn.html
 - PyTorch 实现的一些项目集锦：https://github.com/bharathgs/Awesome-pytorch-list
 
+# 图像处理
+- Guided Filter 的 OpenCV 实现：https://github.com/atilimcetin/guided-filter
+
+
 # C++
 - Awesome-cpp：https://github.com/fffaraz/awesome-cpp
 - 别人整理的一些类库：https://github.com/zhangpiu/opensource/blob/master/libs/cpp.wiki
