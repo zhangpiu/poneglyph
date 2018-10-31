@@ -22,6 +22,9 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - PNN(Perturbative Neural Networks)：http://xujuefei.com/pnn.html
 - PyTorch 实现的一些项目集锦：https://github.com/bharathgs/Awesome-pytorch-list
 
+# C++
+- 别人整理的一些类库：https://github.com/zhangpiu/opensource/blob/master/libs/cpp.wiki
+
 # 软件工具
 1. Win10：https://github.com/TGSAN/CMWTAT_Digital_Edition
 2. 内网穿透：https://github.com/inconshreveable/ngrok
