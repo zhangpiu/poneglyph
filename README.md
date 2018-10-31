@@ -10,6 +10,10 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - Facebook DeepCluster：https://github.com/facebookresearch/deepcluster
 - TPAMI 的一篇论文，用了很多工程优化，Controstive Loss 可以参考一下：https://github.com/filipradenovic/cnnimageretrieval-pytorch
 
+## ANN 检索
+- ANN 检索各种库的 benchmark：https://github.com/erikbern/ann-benchmarks
+
+
 ## 聚类
 - 基于 GPU 的 K-Means 聚类，亲测，100万 × 1024 的规模仅需要 10 mins：https://github.com/src-d/kmcuda
 
