@@ -41,6 +41,7 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - CROW，C++ 写的一个 Web 框架：https://github.com/ipkn/crow
 
 # Go
+- The way to go：https://github.com/Unknwon/the-way-to-go_ZH_CN
 - Awesome-go-storage：https://github.com/gostor/awesome-go-storage
 
 # 软件工具
