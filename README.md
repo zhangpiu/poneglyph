@@ -26,6 +26,9 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - 别人整理的一些类库：https://github.com/zhangpiu/opensource/blob/master/libs/cpp.wiki
 - CROW，C++ 写的一个 Web 框架：https://github.com/ipkn/crow
 
+# Go
+- Awesome-go-storage：https://github.com/gostor/awesome-go-storage
+
 # 软件工具
 1. Win10：https://github.com/TGSAN/CMWTAT_Digital_Edition
 2. 内网穿透：https://github.com/inconshreveable/ngrok
