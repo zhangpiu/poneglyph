@@ -15,6 +15,9 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 ## ANN 检索
 - ANN 检索各种库的 benchmark：https://github.com/erikbern/ann-benchmarks
 
+## 迁移学习
+- 王晋东：https://github.com/jindongwang/transferlearning#6Transfer-Learning-Thesis
+
 ## 图像增强
 - neural enhance：https://github.com/alexjc/neural-enhance
 - SR：https://github.com/nagadomi/waifu2x
