@@ -4,6 +4,8 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 开篇来一记：https://github.com/bayandin/awesome-awesomeness
 
 # 深度学习
+## Books
+- http://www.deeplearningbook.org/ Ian Goodfellow 的书
 ## 数据集
 ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 
