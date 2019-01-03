@@ -22,6 +22,7 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 
 ## 迁移学习
 - 王晋东：https://github.com/jindongwang/transferlearning#6Transfer-Learning-Thesis
+- https://github.com/artix41/awesome-transfer-learning
 
 ## 图像增强
 - neural enhance：https://github.com/alexjc/neural-enhance
