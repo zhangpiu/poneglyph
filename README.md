@@ -48,6 +48,7 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - Awesome-cpp：https://github.com/fffaraz/awesome-cpp
 - 别人整理的一些类库：https://github.com/zhangpiu/opensource/blob/master/libs/cpp.wiki
 - CROW，C++ 写的一个 Web 框架：https://github.com/ipkn/crow
+- 构建：https://www.bazel.build/
 
 # Go
 - The way to go：https://github.com/Unknwon/the-way-to-go_ZH_CN
