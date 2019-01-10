@@ -48,6 +48,7 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 - Awesome-cpp：https://github.com/fffaraz/awesome-cpp
 - 别人整理的一些类库：https://github.com/zhangpiu/opensource/blob/master/libs/cpp.wiki
 - CROW，C++ 写的一个 Web 框架：https://github.com/ipkn/crow
+- C++实现 Keras 模型的 Forward：https://github.com/Dobiasd/frugally-deep/tree/master/include/fdeep
 - 构建：https://www.bazel.build/
 
 # Go
