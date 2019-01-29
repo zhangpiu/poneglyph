@@ -18,6 +18,9 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 ## ANN 检索
 - ANN 检索各种库的 benchmark：https://github.com/erikbern/ann-benchmarks
 
+## GNN
+- 阿里的一个开源框架：https://github.com/alibaba/euler/wiki/Euler-OP
+
 ## Persoin Re-ID
 - State of the art on the Market-1501 dataset: http://www.liangzheng.org/Project/state_of_the_art_market1501.html
 
