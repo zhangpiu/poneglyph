@@ -18,6 +18,9 @@ ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 ## ANN 检索
 - ANN 检索各种库的 benchmark：https://github.com/erikbern/ann-benchmarks
 
+## CNN
+- Convolutions: https://github.com/vdumoulin/conv_arithmetic
+
 ## GNN
 - 阿里的一个开源框架：https://github.com/alibaba/euler/wiki/Euler-OP
 
