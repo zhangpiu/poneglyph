@@ -8,7 +8,8 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 - http://www.deeplearningbook.org/ Ian Goodfellow 的书
 - 统计学习方法：https://github.com/fengdu78/lihang-code
 ## 数据集
-ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
+- CVonline Image Databases: http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+- ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
 
 ## 图像检索
 - 图像检索相关的论文：https://github.com/willard-yuan/awesome-cbir-papers
