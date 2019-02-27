@@ -7,6 +7,7 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 ## Books
 - http://www.deeplearningbook.org/ Ian Goodfellow 的书
 - 统计学习方法：https://github.com/fengdu78/lihang-code
+- https://mqshen.gitbooks.io/prml/Chapter1/ PRML 的中文版
 ## 数据集
 - CVonline Image Databases: http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
 - ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
