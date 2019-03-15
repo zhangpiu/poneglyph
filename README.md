@@ -38,6 +38,9 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 - neural enhance：https://github.com/alexjc/neural-enhance
 - SR：https://github.com/nagadomi/waifu2x
 
+## 人脸检测
+- 一个开源的不依赖其他库的人脸检测：https://github.com/ShiqiYu/libfacedetection
+
 ## 聚类
 - 基于 GPU 的 K-Means 聚类，亲测，100万 × 1024 的规模仅需要 10 mins：https://github.com/src-d/kmcuda
 
