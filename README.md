@@ -76,3 +76,4 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 3. 一个制作启动盘的软件：https://github.com/pbatard/rufus
 4. 一个号称很简洁的图形界面库：https://github.com/idea4good/GuiLite
 5. 网络加速：https://github.com/snooda/net-speeder
+6. 谷歌前员工生存指南：https://github.com/jhuangtw-dev/xg2xg
