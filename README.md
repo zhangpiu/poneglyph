@@ -77,3 +77,4 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 4. 一个号称很简洁的图形界面库：https://github.com/idea4good/GuiLite
 5. 网络加速：https://github.com/snooda/net-speeder
 6. 谷歌前员工生存指南：https://github.com/jhuangtw-dev/xg2xg
+7. WPS 字体：https://github.com/IamDH4/ttf-wps-fonts
