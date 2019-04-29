@@ -65,6 +65,7 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 - CROW，C++ 写的一个 Web 框架：https://github.com/ipkn/crow
 - C++实现 Keras 模型的 Forward：https://github.com/Dobiasd/frugally-deep/tree/master/include/fdeep
 - 构建：https://www.bazel.build/
+- 类似 Python subprocess 的一个库：https://github.com/arun11299/cpp-subprocess/blob/master/subprocess.hpp
 
 # Go
 - The way to go：https://github.com/Unknwon/the-way-to-go_ZH_CN
