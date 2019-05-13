@@ -31,6 +31,7 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 
 ## Persoin Re-ID
 - State of the art on the Market-1501 dataset: http://www.liangzheng.org/Project/state_of_the_art_market1501.html
+- 这个工程不错：https://github.com/KaiyangZhou/deep-person-reid
 
 ## 迁移学习
 - 王晋东：https://github.com/jindongwang/transferlearning#6Transfer-Learning-Thesis
