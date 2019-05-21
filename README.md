@@ -22,6 +22,7 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 ## ANN 检索
 - ANN 检索各种库的 benchmark：https://github.com/erikbern/ann-benchmarks
 - Facebook 开源的特征学习工具：https://github.com/facebookresearch/StarSpace
+- 微软的分布式检索引擎：https://github.com/microsoft/SPTAG
 
 ## CNN
 - Convolutions: https://github.com/vdumoulin/conv_arithmetic
