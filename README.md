@@ -46,6 +46,9 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 ## 人脸检测
 - 一个开源的不依赖其他库的人脸检测：https://github.com/ShiqiYu/libfacedetection
 
+## 3D 场景生成
+- 一个不错的 workshop:https://3dscenegen.github.io/
+
 ## 聚类
 - 基于 GPU 的 K-Means 聚类，亲测，100万 × 1024 的规模仅需要 10 mins：https://github.com/src-d/kmcuda
 
