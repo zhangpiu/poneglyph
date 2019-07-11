@@ -108,4 +108,6 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 8. OpenVPN 域名解析异常：https://github.com/jonathanio/update-systemd-resolved
 9. 中文方案排版指北：https://github.com/sparanoid/chinese-copywriting-guidelines#%E4%B8%AD%E6%96%87%E8%88%87%E6%95%B8%E5%AD%97%E4%B9%8B%E9%96%93%E9%9C%80%E8%A6%81%E5%A2%9E%E5%8A%A0%E7%A9%BA%E6%A0%BC
 10. 代理工具：https://www.privoxy.org/
+11. V2Ray：https://toutyrater.github.io/
+
 
