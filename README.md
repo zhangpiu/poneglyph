@@ -20,6 +20,13 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 ## 数据集
 - CVonline Image Databases: http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
 - ImageNet2012 ILSVRC:http://www.aqinet.cn/thread-53-1-1.html
+- Google Open Images Dataset V5: https://storage.googleapis.com/openimages/web/challenge2019_downloads.html
+
+
+## 个人主页
+- Ali Eslami: http://arkitus.com/
+- http://slazebni.cs.illinois.edu/
+- 
 
 ## 图像检索
 - 图像检索相关的论文：https://github.com/willard-yuan/awesome-cbir-papers
