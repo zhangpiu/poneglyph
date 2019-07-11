@@ -4,8 +4,11 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 开篇来一记：https://github.com/bayandin/awesome-awesomeness
 
 # 深度学习
-## 论文
+## 会议 or 竞赛
 - ICLR2019：https://chillee.github.io/OpenReviewExplorer/
+- CVPR2019：http://cvpr2019.thecvf.com/program/workshops
+- 场景理解的：https://sumochallenge.org/
+
 
 ## 课程
 - https://www.deeplearning.ai/deep-learning-specialization/
@@ -46,6 +49,11 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 
 ## GNN
 - 阿里的一个开源框架：https://github.com/alibaba/euler/wiki/Euler-OP
+
+## 强化学习
+- 港中文的一个主页：https://course.ie.cuhk.edu.hk/~ierg6130/
+- 经典论文读起来：https://arxiv.org/abs/1502.05477
+
 
 ## Persoin Re-ID
 - State of the art on the Market-1501 dataset: http://www.liangzheng.org/Project/state_of_the_art_market1501.html
