@@ -38,6 +38,8 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 - Facebook 开源的特征学习工具：https://github.com/facebookresearch/StarSpace
 - 微软的分布式检索引擎：https://github.com/microsoft/SPTAG
 - ANN 数据集：http://corpus-texmex.irisa.fr/
+- 这个的博士论文有空关注一下：https://github.com/una-dinosauria/Rayuela.jl
+- 一篇新思路：https://github.com/facebookresearch/spreadingvectors
 
 ## CNN
 - Convolutions: https://github.com/vdumoulin/conv_arithmetic
@@ -48,6 +50,9 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 ## Persoin Re-ID
 - State of the art on the Market-1501 dataset: http://www.liangzheng.org/Project/state_of_the_art_market1501.html
 - 这个工程不错：https://github.com/KaiyangZhou/deep-person-reid
+- ReID 的 workshop: https://reid-mct.github.io/2019/
+- ReID baseline 整理：https://github.com/michuanhaohao/reid-strong-baseline
+
 
 ## 迁移学习
 - 王晋东：https://github.com/jindongwang/transferlearning#6Transfer-Learning-Thesis
@@ -102,3 +107,5 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 7. WPS 字体：https://github.com/IamDH4/ttf-wps-fonts
 8. OpenVPN 域名解析异常：https://github.com/jonathanio/update-systemd-resolved
 9. 中文方案排版指北：https://github.com/sparanoid/chinese-copywriting-guidelines#%E4%B8%AD%E6%96%87%E8%88%87%E6%95%B8%E5%AD%97%E4%B9%8B%E9%96%93%E9%9C%80%E8%A6%81%E5%A2%9E%E5%8A%A0%E7%A9%BA%E6%A0%BC
+10. 代理工具：https://www.privoxy.org/
+
