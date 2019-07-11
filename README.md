@@ -5,7 +5,11 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 
 # 深度学习
 ## 论文
-# ICLR2019：https://chillee.github.io/OpenReviewExplorer/
+- ICLR2019：https://chillee.github.io/OpenReviewExplorer/
+
+## 课程
+- https://www.deeplearning.ai/deep-learning-specialization/
+- https://www.coursera.org/learn/machine-learning-projects? 这个课程可以有空看一下
 
 ## Books
 - http://www.deeplearningbook.org/ Ian Goodfellow 的书
