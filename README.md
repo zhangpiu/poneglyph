@@ -91,6 +91,7 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 # 图像处理
 - Guided Filter 的 OpenCV 实现：https://github.com/atilimcetin/guided-filter
 - Jpeg 压缩：https://github.com/libjpeg-turbo/libjpeg-turbo
+- Go 写的一个图像处理库：https://github.com/h2non/imaginary
 
 
 # C++
