@@ -44,6 +44,10 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 - 这个的博士论文有空关注一下：https://github.com/una-dinosauria/Rayuela.jl
 - 一篇新思路：https://github.com/facebookresearch/spreadingvectors
 
+## 行人检测
+- 论文整理：https://github.com/xingkongliang/Pedestrian-Detection
+- 一个基于 TensorFlow API 的行人检测：https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d
+
 ## CNN
 - Convolutions: https://github.com/vdumoulin/conv_arithmetic
 
