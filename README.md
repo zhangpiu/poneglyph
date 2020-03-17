@@ -48,6 +48,9 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 - 论文整理：https://github.com/xingkongliang/Pedestrian-Detection
 - 一个基于 TensorFlow API 的行人检测：https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d
 
+## 背景减除
+- 一个基于传统方法的库：https://github.com/andrewssobral/bgslibrary
+
 ## CNN
 - Convolutions: https://github.com/vdumoulin/conv_arithmetic
 
