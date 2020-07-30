@@ -109,6 +109,7 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 - 构建：https://www.bazel.build/
 - 类似 Python subprocess 的一个库：https://github.com/arun11299/cpp-subprocess/blob/master/subprocess.hpp
 - 类似 Eigen 的计算库：https://github.com/arrayfire/arrayfire
+- Facebook 的：https://github.com/facebookresearch/flashlight
 
 
 # Go
