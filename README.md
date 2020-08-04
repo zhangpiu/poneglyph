@@ -35,6 +35,7 @@ Ideas, memos, notes and something more...(ポーネグリフ) 该 repo 用来记
 - 图像检索相关的论文：https://github.com/willard-yuan/awesome-cbir-papers
 - Facebook DeepCluster：https://github.com/facebookresearch/deepcluster
 - TPAMI 的一篇论文，用了很多工程优化，Controstive Loss 可以参考一下：https://github.com/filipradenovic/cnnimageretrieval-pytorch
+- 局部特征描述子：https://github.com/rpautrat/SuperPoint
 
 ## ANN 检索
 - ANN 检索各种库的 benchmark：https://github.com/erikbern/ann-benchmarks
